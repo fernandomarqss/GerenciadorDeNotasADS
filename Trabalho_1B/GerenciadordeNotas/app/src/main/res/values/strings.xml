@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Gerenciador de Notas ADS</string>
+    <string name="nome_completo">Nome Completo</string>
+    <string name="email">Email</string>
+    <string name="idade">Idade</string>
+    <string name="disciplina">Disciplina</string>
+    <string name="nota_bimestre1">Nota 1° Bimestre</string>
+    <string name="nota_bimestre2">Nota 2° Bimestre</string>
+    <string name="btn_salvar">Salvar</string>
+    <string name="btn_resetar">Resetar</string>
+    <string name="resultado_nome">Nome Completoo: %s</string>
+    <string name="resultado_email">Email: %s</string>
+    <string name="resultado_idade">Idade: %s</string>
+    <string name="resultado_disciplina">Disciplina: %s</string>
+    <string name="resultado_notas">Notas: %.2f, %.2f</string>
+    <string name="resultado_media">Média: %.2f</string>
+    <string name="resultado_aprovado">Aprovado</string>
+    <string name="resultado_reprovado">Reprovado</string>
+    <string name="dados_salvos">Dados salvos com sucesso!</string>
+</resources>
